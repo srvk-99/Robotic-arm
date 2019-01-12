@@ -4,5 +4,5 @@ It is completely controlled by joystick.
 The structure of the robotic arm was completly made with cardboard.
 
 <p align="center">
-  <img width="460" height="300" src="image_of_the_project.png">
+  <img width="460" height="600" src="image_of_the_project.png">
 </p>
